@@ -1,0 +1,1 @@
+Been looking into Java more recently and it won a tug of war between it and C#.  This is a simple introduction of the language for myself.  A GUI app that behaves in a dynamic nature.  Takes input and prints an uplifting message containing the value.  If the text field is empty, the application does nothing.
